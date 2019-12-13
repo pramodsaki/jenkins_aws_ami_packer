@@ -1,0 +1,9 @@
+{
+    "vpc_region": "ap-south-1",
+    "vpc_id": "vpc-0742f73b518e75c28",
+    "vpc_public_sn_id": "subnet-0f34650d595f52376",
+    "vpc_public_sg_id": "sg-01ef518d988658845",
+    "source_ami": "ami-0f59afa4a22fad2f0",
+    "instance_type": "t2.micro",
+    "ssh_username": "ubuntu"
+  }
